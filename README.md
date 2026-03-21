@@ -18,6 +18,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://exuivmos.gensparkspace.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneeth.koppula007@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/praneethkoppula)
+[![Resume](https://img.shields.io/badge/📄_View_Resume-4CAF50?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1dJINU9UYrQYr4rEN_gO1P073TT2MlG_X/view?usp=drivesdk)
 
 </div>
 
@@ -83,6 +84,7 @@
 ## 🚀 Projects
 
 ### 🌬️ IoT-Based Air Pollution Meter
+
 > Real-time air quality monitoring system using **MQ135 gas sensor** and **ESP8266 NodeMCU**
 
 ```
@@ -93,9 +95,12 @@ Monitoring    : Remote monitoring via IoT platforms
 Language      : C++ (Arduino)
 ```
 
+[![View Project](https://img.shields.io/badge/📂_View_Project-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://drive.google.com/drive/folders/1HpLvbbZnzVkQGR51dSvvxeePJG-_-iwr)
+
 ---
 
 ### 🏧 ATM Simulator in C
+
 > Console-based banking application simulating core ATM functionalities
 
 ```
@@ -104,9 +109,12 @@ Language      : C
 Concepts      : Logical programming, User input handling
 ```
 
+[![View Project](https://img.shields.io/badge/📂_View_Project-00599C?style=for-the-badge&logo=c&logoColor=white)](https://drive.google.com/drive/folders/1FCwOTjB0sfLs5DgkEsFRFSrHih4St8R7)
+
 ---
 
 ### 🧮 Scientific Calculator in C
+
 > Advanced calculator supporting complex mathematical operations
 
 ```
@@ -115,15 +123,20 @@ Language      : C
 Libraries     : math.h
 ```
 
+[![View Project](https://img.shields.io/badge/📂_View_Project-00599C?style=for-the-badge&logo=c&logoColor=white)](https://docs.google.com/document/d/1IgUPJsUlUsgJ6nwre1xL1DYvTQIQgX0rQXWW46pLyNo/edit?usp=drivesdk)
+
 ---
 
 ### 📅 Age Calculator in C
-> Calculates a person's exact age from their date of birth
+
+> Calculates exact age from date of birth
 
 ```
 Concepts      : Date arithmetic · Conditional logic · Structured programming
 Language      : C
 ```
+
+[![View Project](https://img.shields.io/badge/📂_View_Project-00599C?style=for-the-badge&logo=c&logoColor=white)](https://drive.google.com/drive/folders/18-JG48tKSO9bWur-ZG6mXyiIUq7zry1e)
 
 ---
 
@@ -135,14 +148,17 @@ Language      : C
 - 🤖 **Prompt Engineering Certification**
 - 🏅 **Certificate of Appreciation**
 
-> 📂 [View All Certificates](https://github.com/Koppulapraneeth)
+[![View All Certificates](https://img.shields.io/badge/📜_View_All_Certificates-F4B400?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1KKRHOdOHtS-z9Gh7J7nK-tONZJ3UlfPM)
 
 ---
 
 ## 🎬 Extra-Curricular Activities
 
-- 📹 Produced a **promotional video for NODETRONICS Technology** — *"Build Your Own Smart Tracker"* program — combining technical knowledge with professional video production
-- 🎨 Active **content creator & video editor** on Instagram, blending technology with creativity
+- 📹 Produced a **promotional video for NODETRONICS Technology** — *"Build Your Own Smart Tracker"* — combining technical knowledge with professional video production
+
+  [![Watch Video](https://img.shields.io/badge/▶_Watch_Promotional_Video-FF0000?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1lU2-p2FGDdmhgNxNlFb30LrgXECW_tCP/view?usp=drivesdk)
+
+- 🎨 Active **content creator & video editor** on Instagram, blending technology with creativity to engage audiences
 - 🔧 Continuously experimenting with **hardware prototyping** and **IoT development** through independent projects
 
 ---
@@ -167,6 +183,8 @@ Language      : C
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Koppulapraneeth&label=Profile+Views&color=0e75b6&style=flat)
+
+[![📄 View My Resume](https://img.shields.io/badge/📄_View_My_Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1dJINU9UYrQYr4rEN_gO1P073TT2MlG_X/view?usp=drivesdk)
 
 *"Hardware without software is just sculpture. I build both."* 🔩⚡
 
