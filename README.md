@@ -18,7 +18,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://exuivmos.gensparkspace.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneeth.koppula007@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/praneethkoppula)
-[![Resume](https://img.shields.io/badge/📄_View_Resume-4CAF50?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1dJINU9UYrQYr4rEN_gO1P073TT2MlG_X/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/📄_View_Resume-4CAF50?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1b2HcYvRm_hqJJx4_0xfSvZD_an6-ZvOW/view?usp=sharing)
 
 </div>
 
@@ -184,7 +184,7 @@ Language      : C
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Koppulapraneeth&label=Profile+Views&color=0e75b6&style=flat)
 
-[![📄 View My Resume](https://img.shields.io/badge/📄_View_My_Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1dJINU9UYrQYr4rEN_gO1P073TT2MlG_X/view?usp=drivesdk)
+[![📄 View My Resume](https://img.shields.io/badge/📄_View_My_Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1b2HcYvRm_hqJJx4_0xfSvZD_an6-ZvOW/view?usp=sharing)
 
 *"Hardware without software is just sculpture. I build both."* 🔩⚡
 
